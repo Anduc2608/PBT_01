@@ -9,7 +9,7 @@ Câu A1:
 6. chrome nhận file HTML,CSS,JS -> render giao diện -> An thấy trang chủ shopee
 - nguồn tham chiếu: 01_introduction_html_universe.md + Cuộc Hành Trình 0.3 Giây Xuyên Đại Dương
 - Tab Network cho thấy toàn bộ các request mà trình duyệt gửi đi khi tải trang
-![alt text](CauA1-1.png)
+screenshots/CauA1-1.png
 
 Câu A2:
 - Lỗi 1: sử dụng thẻ <div> thay cho các thành phần định danh (header , main , footer)
@@ -88,14 +88,14 @@ Lỗi 11: Dòng 38 — Thẻ <p> ở footer chưa đóng — Sửa: Thêm </p>
 Câu B4:
  1. 3 thẻ semantic HTML5 mà trang đó sử dụng
  - Thẻ <header>:
-![Thẻ header](CauB4_Header.png)
+![Thẻ header](screenshots/CauB4_Header.png)
  - Thẻ <footer>:
- ![Thẻ footer](CauB4_Footer.png)
+ ![Thẻ footer](screenshots/CauB4_Footer.png)
  - Thẻ <body>:
- ![Thẻ body](CauB4_Body.png)
+ ![Thẻ body](screenshots/CauB4_Body.png)
  2. 
  - Thẻ <table>:
- ![Thẻ table](CauB4_Table.png)
+ ![Thẻ table](screenshots/CauB4_Table.png)
 - Bảng đang hiển thị so sánh các phiên bản iPhone (Pro Max) theo 3 cột:
 Các phiên bản
 Giá bán thị trường quốc tế 
